@@ -8,6 +8,7 @@ Space for collecting used crawlers.
 
 * [torrent](torrent/)
 * [OAuthGoogle](OAuthGoogle/)
+* [facebook](fb_post/)
 
 ## Usage
 The `chromedriver` must be installed by default.
